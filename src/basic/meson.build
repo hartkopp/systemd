@@ -108,6 +108,7 @@ basic_sources = files('''
         linux/nl80211.h
         linux/pkt_sched.h
         linux/rtnetlink.h
+        linux/securebits.h
         linux/wireguard.h
         list.h
         locale-util.c
@@ -138,7 +139,6 @@ basic_sources = files('''
         missing_random.h
         missing_resource.h
         missing_sched.h
-        missing_securebits.h
         missing_socket.h
         missing_stat.h
         missing_stdlib.h
