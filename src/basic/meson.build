@@ -96,6 +96,7 @@ basic_sources = files('''
         linux/if_tunnel.h
         linux/in.h
         linux/in6.h
+        linux/ioprio.h
         linux/ipv6_route.h
         linux/l2tp.h
         linux/libc-compat.h
